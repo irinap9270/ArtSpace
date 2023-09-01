@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="title1">Cat In The Sun</string>
+    <string name="title2">Cat Celebrating Birthday</string>
+    <string name="title3">Cat Playing Guitar</string>
+    <string name="title4">Lazy Cat</string>
+    <string name="artist1">Irina</string>
+    <string name="artist2">HyeIn</string>
+    <string name="artist3">Sue</string>
+    <string name="artist4">243</string>
+</resources>
